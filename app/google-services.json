@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "383560025847",
+    "project_id": "trailbuddyapp-115f1",
+    "storage_bucket": "trailbuddyapp-115f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383560025847:android:bdd48cefe7c06da8d7b5f2",
+        "android_client_info": {
+          "package_name": "com.trailbuddyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe1LL6x7PqQjN9zpZyiwFAgyMw0Or1CaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

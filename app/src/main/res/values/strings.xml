@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TrailBuddy</string>
+    <string name="app_logo_desc">App Logo</string>
+    <string name="icon_trails_desc">Icon representing trails</string>
+    <string name="profile_image_desc">Profile image</string>
+    <!-- Added actual client ID -->
+    <string name="default_web_client_id">470697438177-gb90knpim3pd05uo4ieab7ubgu9edoh9.apps.googleusercontent.com</string>
+</resources>
